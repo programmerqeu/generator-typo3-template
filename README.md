@@ -1,4 +1,4 @@
-# generator-typo-3-template [![NPM version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url] [![Dependency Status][daviddm-image]][daviddm-url] [![Coverage percentage][coveralls-image]][coveralls-url]
+# generator-typo-3-template [![NPM version][npm-image]][npm-url] [![Build Status](https://travis-ci.org/vergissberlin/generator-typo3-template.svg?branch=master)](https://travis-ci.org/vergissberlin/generator-typo3-template) [![Dependency Status][daviddm-image]][daviddm-url] [![Coverage percentage][coveralls-image]][coveralls-url]
 > Generate a high quality fluid based template extension for TYPO3 CMS in seconds.
 
 ## Installation
