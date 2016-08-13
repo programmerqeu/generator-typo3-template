@@ -28,11 +28,11 @@ yo typo-3-template
 MIT © [André Lademann](https://www.netresearch.de/)
 
 
-[npm-image]: https://badge.fury.io/js/generator-typo-3-template.svg
-[npm-url]: https://npmjs.org/package/generator-typo-3-template
-[travis-image]: https://travis-ci.org/vergissberlin/generator-typo-3-template.svg?branch=master
-[travis-url]: https://travis-ci.org/vergissberlin/generator-typo-3-template
-[daviddm-image]: https://david-dm.org/vergissberlin/generator-typo-3-template.svg?theme=shields.io
-[daviddm-url]: https://david-dm.org/vergissberlin/generator-typo-3-template
-[coveralls-image]: https://coveralls.io/repos/vergissberlin/generator-typo-3-template/badge.svg
-[coveralls-url]: https://coveralls.io/r/vergissberlin/generator-typo-3-template
+[npm-image]: https://badge.fury.io/js/generator-typo3-template.svg
+[npm-url]: https://npmjs.org/package/generator-typo3-template
+[travis-image]: https://travis-ci.org/vergissberlin/generator-typo3-template.svg?branch=master
+[travis-url]: https://travis-ci.org/vergissberlin/generator-typo3-template
+[daviddm-image]: https://david-dm.org/vergissberlin/generator-typo3-template.svg?theme=shields.io
+[daviddm-url]: https://david-dm.org/vergissberlin/generator-typo3-template
+[coveralls-image]: https://coveralls.io/repos/vergissberlin/generator-typo3-template/badge.svg
+[coveralls-url]: https://coveralls.io/r/vergissberlin/generator-typo3-template
