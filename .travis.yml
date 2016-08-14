@@ -2,7 +2,6 @@ sudo: false
 language: node_js
 node_js:
   - stable
-  - '4.4.x'
 
 before_install:
   - gem update --system
