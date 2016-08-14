@@ -1,19 +1,19 @@
-# generator-typo-3-template [![NPM version][npm-image]][npm-url] [![Build Status](https://travis-ci.org/vergissberlin/generator-typo3-template.svg?branch=master)](https://travis-ci.org/vergissberlin/generator-typo3-template) [![Dependency Status][daviddm-image]][daviddm-url] [![Coverage percentage][coveralls-image]][coveralls-url]
+# generator-typo3-template [![NPM version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url] [![Dependency Status][daviddm-image]][daviddm-url] [![Coverage percentage][coveralls-image]][coveralls-url]
 > Generate a high quality fluid based template extension for TYPO3 CMS in seconds.
 
 ## Installation
 
-First, install [Yeoman](http://yeoman.io) and generator-typo-3-template using [npm](https://www.npmjs.com/) (we assume you have pre-installed [node.js](https://nodejs.org/)).
+First, install [Yeoman](http://yeoman.io) and generator-typo3-template using [npm](https://www.npmjs.com/) (we assume you have pre-installed [node.js](https://nodejs.org/)).
 
 ```bash
 npm install -g yo
-npm install -g generator-typo-3-template
+npm install -g generator-typo3-template
 ```
 
 Then generate your new project:
 
 ```bash
-yo typo-3-template
+yo typo3-template
 ```
 
 ## Getting To Know Yeoman

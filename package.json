@@ -1,5 +1,5 @@
 {
-  "name": "generator-typo-3-template",
+  "name": "generator-typo3-template",
   "version": "0.0.0",
   "description": "Generate a high quality fluid based template extension for TYPO3 CMS in seconds.",
   "homepage": "https://github.com/vergissberlin/generator-typo3-template",
@@ -50,7 +50,7 @@
       "mocha": true
     }
   },
-  "repository": "vergissberlin/generator-typo-3-template",
+  "repository": "vergissberlin/generator-typo3-template",
   "scripts": {
     "prepublish": "gulp prepublish",
     "test": "gulp"
