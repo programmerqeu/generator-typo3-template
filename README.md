@@ -1,8 +1,6 @@
 # generator-typo3-template [![NPM version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url] [![Dependency Status][daviddm-image]][daviddm-url] [![Coverage percentage][coveralls-image]][coveralls-url]
 > Generate a high quality fluid based template extension for TYPO3 CMS in seconds.
 
-[![Coverage Status](https://coveralls.io/repos/github/vergissberlin/generator-typo3-template/badge.svg?branch=)](https://coveralls.io/github/vergissberlin/generator-typo3-template?branch=)
-
 ## Installation
 
 First, install [Yeoman](http://yeoman.io) and generator-typo3-template using [npm](https://www.npmjs.com/) (we assume you have pre-installed [node.js](https://nodejs.org/)).
