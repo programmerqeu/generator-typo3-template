@@ -1,4 +1,7 @@
 # generator-typo3-template [![NPM version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url] [![Dependency Status][daviddm-image]][daviddm-url] [![Coverage percentage][coveralls-image]][coveralls-url]
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/vergissberlin/generator-typo3-template.svg)](https://greenkeeper.io/)
+
 > Generate a high quality fluid based template extension for TYPO3 CMS in seconds.
 
 ## Installation
